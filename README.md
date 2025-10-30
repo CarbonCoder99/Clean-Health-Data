@@ -41,3 +41,12 @@ You can install the necessary dependencies using `pip`:
 
 ```bash
 pip install pandas numpy matplotlib seaborn jupyter
+
+
+To clone repository:
+
+git clone [https://github.com/CarbonCoder99/Clean-Health-Data.git](https://github.com/CarbonCoder99/Clean-Health-Data.git)
+cd Clean-Health-Data
+
+Open Jupyter Notebook
+Open and run notebook.ipynb
